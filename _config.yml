@@ -1,0 +1,14 @@
+layout_spectrum: 0.7060932
+typography_spectrum: 0.2392746
+color:
+  saturation: 0.01450738
+  lightness: 0.6043979
+  brandStrength: 0.2252886
+  brandColors:
+    - '#0B0A10'
+    - '#362C2A'
+    - '#C88953'
+    - '#FCDDAD'
+    - '#A1603A'
+  rhythmicContrast: 0.4737671
+name: "Maghetti's Place "
